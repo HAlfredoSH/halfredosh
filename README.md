@@ -7,7 +7,7 @@
  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=xpyronv&color=blue" align="center">
    <img src="https://img.shields.io/static/v1?label=Discord&message=xpyron_%230001&color=blue&style=for-the-badge" align="center">
-   <img src="https://img.shields.io/twitter/follow/xpyron_?color=blue&label=Twitter&logo=brunoohdev&style=for-the-badge" align="center">
+   <img src="https://img.shields.io/twitter/follow/Alfredini_sh?color=blue&label=Twitter&logo=brunoohdev&style=for-the-badge" align="center">
  </div>
  
  ## My Tech Stack
