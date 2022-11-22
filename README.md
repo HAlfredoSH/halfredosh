@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/twitter/follow/Alfredini_sh?color=blue&label=Twitter&logo=brunoohdev&style=for-the-badge" align="center">
  </div>
  
- ## My Tech Stack
+ ## My Tech Stack ⚙
  
  <p>
 <div align="center"> 
@@ -21,6 +21,14 @@ src="https://raw.githubusercontent.com/InitDev06/InitDev06/master/assets/spigotm
 </div>
 <p/>
 
+### My proyects 📁
+- [Sytuns Security](Forgez.com/SytunsSC/progress) 
+- [HyStoreX](https://hystorex.me/viwe)
+
+#### More from 💳
+- I am  **CEO** of Forgez Company LLC
+- Contact me: [Twitter](https://twitter.com/alfredini_sh)
+- My discord: AlfredoSH#9930
  <div align="center">
 
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
