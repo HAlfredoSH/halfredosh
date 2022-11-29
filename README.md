@@ -1,7 +1,7 @@
 # <p align="center"> Hello everyone, let me introduce myself 👋 <p/>
 
   <blockquote>
-   <p align="center"> My name is Alfredo. I've been a programmer for 3 years and I make minecraft plugins and from time to time, some small project when I'm bored. I am also a member of Forgez Studios S.A. and proudly Mexican
+   <p align="center"> My name is Alfredo. I've been a programmer for 3 years and I make minecraft plugins and from time to time, some small project when I'm bored. I am also a member of Forgez Studios LLC and proudly Mexican
      <p/>
        </blockquote>
  <div align="center">
