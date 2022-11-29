@@ -22,8 +22,8 @@ src="https://raw.githubusercontent.com/InitDev06/InitDev06/master/assets/spigotm
 <p/>
 
 ### My proyects 📁
-- [Sytuns Security](Forgez.com/SytunsSC/progress) 
-- [HyStoreX](https://hystorex.me/viwe)
+- [Sytuns Security] 
+- [HyStoreX]([https://hystorex.me/viwe](https://github.com/Forgez-Studios-S-A/HyStoreX))
 
 #### More from 💳
 - I am  **CEO** of Forgez Company LLC
